@@ -8,6 +8,10 @@ I also organized each element that included long lines of text, by shortening th
 
 The css file was organized to group together each styling according to the section on the page it was relative to.
 
+https://jalenarms1.github.io/newtryChallenge1/
+
+![A screenshot of what's first seen on the web page.](firstreadme\screenShot.png)
+
 
 
 
