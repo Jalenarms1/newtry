@@ -10,7 +10,7 @@ The css file was organized to group together each styling according to the secti
 
 https://jalenarms1.github.io/newtryChallenge1/
 
-![A screenshot of what's first seen on the web page.](firstreadme\screenShot.png)
+![A screenshot of what's first seen on the web page.](/firstreadme/screenShot.png)
 
 
 
